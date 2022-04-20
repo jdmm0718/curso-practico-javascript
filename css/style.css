@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;700&family=Raleway:ital,wght@1,300;1,500;1,700&display=swap');
+
+:root{
+    --color-primary: #444cf7;
+    --color-title: #000;
+    --align-title: left;
+    --padding-container: 100px 0;
+    --width-container: 90%;
+    --max-width-container: 1200px;
+    --color-btn: #444cf7;
+    --text-btn: #fff;
+    --padding-btn: 20px 35px;
+    --heigth-shape: 18em;
+}
+body{
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    background-color: #e5e5f7;
+    opacity: 1;
+    background-image:  radial-gradient(#444cf7 0.5px, transparent 0.5px), radial-gradient(#444cf7 0.5px, #e5e5f7 0.5px);
+    background-size: 20px 20px;
+    background-position: 0 0,10px 10px;
+}
