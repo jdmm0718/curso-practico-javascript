@@ -2,9 +2,9 @@
 
 ...
 
-## Taller #1: figuras geometricas
+## Taller # 1: figuras geometricas
 
 - Primer paso: definir formulas
 - Segundo paso: implementar formulas en javascript
--Tercer paso: crear funciones
+- Tercer paso: crear funciones
 - Cuarto paso: integrar js con HTML
